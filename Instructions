@@ -1,0 +1,7 @@
+Run the exe (it should find your install automatically, if not, simply navigate to and select Gorilla Tag.exe in the file dialog)
+Select the mods you want to install or update (BepInEx is selected by default and cannot be deselected)
+Click the View Mod Info button to open the mod's GitHub page
+If a mod has any dependencies (mods it requires to function), those will also be selected and cannot be deselected
+Click Install / Update
+Reject humanity
+Return to monke
